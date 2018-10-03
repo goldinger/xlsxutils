@@ -1,4 +1,4 @@
-from ExcelGenerator import ExcelGenerator
+from xlsxutils.ExcelGenerator import ExcelGenerator
 
 
 class MyGen(ExcelGenerator):

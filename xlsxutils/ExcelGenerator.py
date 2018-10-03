@@ -1,4 +1,4 @@
-from generator import generate_excel
+from xlsxutils.generator import generate_excel
 
 
 class ExcelGenerator:

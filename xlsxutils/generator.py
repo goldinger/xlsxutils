@@ -1,7 +1,7 @@
 import os
 import stat
 import xlsxwriter
-from writer import write
+from xlsxutils.writer import write
 
 
 def generate_excel(data, file_path, sheet_name):
