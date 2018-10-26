@@ -7,9 +7,9 @@ setup(
     install_requires=[
         'xlsxwriter'
     ],
-    url='https://sgithub.fr.world.socgen/asghir121317/xlsxutils',
+    url='https://github.com/goldinger/xlsxutils',
     license='Apache 2.0',
-    author='asghir121317',
-    author_email='amine.sghir-ext@lyxor.com',
+    author='goldinger',
+    author_email='sghir.ma@gmail.com',
     description='Excel Generator'
 )
